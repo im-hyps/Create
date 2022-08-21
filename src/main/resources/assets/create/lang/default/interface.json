@@ -912,6 +912,11 @@
 	"create.command.killTPSCommand.argument.tickTime": "tickTime",
 
 	"create.contraption.minecart_contraption_too_big": "This Cart Contraption seems too big to pick up",
-	"create.contraption.minecart_contraption_illegal_pickup": "A mystical force is binding this Cart Contraption to the world"
+	"create.contraption.minecart_contraption_illegal_pickup": "A mystical force is binding this Cart Contraption to the world",
+  
+  "enchantment.create.capacity": "Capacity",
+  "enchantment.create.capacity.desc": "Increases the capacity of the Copper Backtank.",
+  "enchantment.create.potato_recovery": "Potato Recovery",
+  "enchantment.create.potato_recovery.desc": "Gives chance for items to be dropped after being fired from the Potato Cannon."
 
 }
